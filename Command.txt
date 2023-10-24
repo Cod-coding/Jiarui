@@ -1,0 +1,8 @@
+PS C:\Users\huawe> git --version
+git version 2.42.0.windows.2
+PS C:\Users\huawe> git config --global user.email "huaweieedu@gmail.com"
+PS C:\Users\huawe> git config --global user.name "Jack"
+fwd-i-search: _
+
+Login - Cod-coding
+Pass - Iloveshark1234
